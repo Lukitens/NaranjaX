@@ -4,3 +4,9 @@ Estos datos los extraje de un [posteo](https://www.kaggle.com/datasets/samuelcor
 
 ## Sobre el informe:
 En este informe incluí datos como la cantidad de clientes, la cantidad de hombres y mujeres, el estado civil de los miembros, la deuda promedio de los clientes, entre otros.
+
+### Caratula:
+![Caratula](https://github.com/Lukitens/NaranjaX/blob/main/pbi.png)
+
+### Informe:
+![Informe](https://github.com/Lukitens/NaranjaX/blob/main/pbi1.png)
